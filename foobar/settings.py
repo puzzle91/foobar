@@ -25,7 +25,7 @@ SECRET_KEY = '*x2ppiduw@=y7$k*0ri+_(e61&b=7zv5$jh-m1$b2n_y=3hedb'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['fast-bastion-42941.herokuapp.com', '127.0.0.1']
 
 
 # Application definition
